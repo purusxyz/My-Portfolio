@@ -14,7 +14,7 @@ const Hero = () => {
 
       <div className='relative z-10 flex flex-col items-center'>
         <Image
-          src="/images/profile.jpg"
+          src="/Images/profile.jpg"
           alt='heroimage'
           width={150}
           height={150}
