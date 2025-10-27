@@ -11,28 +11,28 @@ const Services = () => {
         items-center'>
             <div data-aos="fade-right" data-anchor-placement="top-center">
                 <ServiceCard
-                icon="/images/s1.png"
+                icon="/Images/s1.png"
                 name="UI and UX"
                 description="Designing interfaces that are intuitive, efficient, and enjoyable to use."
                 />
             </div>
              <div data-aos="fade-right" data-anchor-placement="top-center" data-aos-delay="100">
                 <ServiceCard 
-                icon="/images/s2.png"
+                icon="/Images/s2.png"
                 name="Web App"
                 description="Designing interfaces that are intuitive, efficient, and enjoyable to use."
                 />
             </div>
              <div data-aos="fade-right" data-anchor-placement="top-center" data-aos-delay="200">
                 <ServiceCard 
-                icon="/images/s3.png"
+                icon="/Images/s3.png"
                 name="Designing and Creativity"
                 description="Designing interfaces that are intuitive, efficient, and enjoyable to use."
                 />
             </div>
              <div data-aos="fade-right" data-anchor-placement="top-center" data-aos-delay="300">
                 <ServiceCard 
-                icon="/images/s4.png"
+                icon="/Images/s4.png"
                 name="Developement"
                 description="Designing interfaces that are intuitive, efficient, and enjoyable to use."
                 />

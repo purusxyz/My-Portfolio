@@ -14,7 +14,7 @@ const Projects = () => {
               data-anchor-placement="top-center"
               data-aos-delay="0">
                 <Image
-                src="/images/p1.jpg"
+                src="/Images/p1.jpg"
                 alt='img'
                 width={800}
                 height={650}
@@ -30,7 +30,7 @@ const Projects = () => {
               data-anchor-placement="top-center"
               data-aos-delay="100">
                 <Image
-                src="/images/p2.jpg"
+                src="/Images/p2.jpg"
                 alt='img'
                 width={800}
                 height={650}
@@ -46,7 +46,7 @@ const Projects = () => {
               data-anchor-placement="top-center"
               data-aos-delay="200">
                 <Image
-                src="/images/p3.jpg"
+                src="/Images/p3.jpg"
                 alt='img'
                 width={800}
                 height={650}
@@ -62,7 +62,7 @@ const Projects = () => {
               data-anchor-placement="top-center"
               data-aos-delay="300">
                 <Image
-                src="/images/p4.jpg"
+                src="/Images/p4.jpg"
                 alt='img'
                 width={800}
                 height={650}

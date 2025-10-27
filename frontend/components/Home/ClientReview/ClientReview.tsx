@@ -42,22 +42,22 @@ const ClientReview = () => {
   
 >
      <ClientReviewCard
-     image="/images/c1.png"
+     image="/Images/c1.png"
      name="Janny Doe"
      role="CEO, Landscape"
       />
       <ClientReviewCard
-     image="/images/c2.png"
+     image="/Images/c2.png"
      name="John Doe"
      role="UI UX Designer"
       />
       <ClientReviewCard
-     image="/images/c3.png"
+     image="/Images/c3.png"
      name="Jassica Doe"
      role="Web Developer"
       />
       <ClientReviewCard
-     image="/images/c4.png"
+     image="/Images/c4.png"
      name="Jora Doe"
      role="CEO, Design Studio"
       />

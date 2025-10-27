@@ -13,7 +13,7 @@ const Blog = () => {
               data-anchor-placement="top-center"
               data-aos-delay="0">
                 <BlogCard
-                 image="/images/b1.jpg"
+                 image="/Images/b1.jpg"
                  title="Learn how to buid an amazing portfolio website using next.js"
                   />
             </div>
@@ -21,7 +21,7 @@ const Blog = () => {
               data-anchor-placement="top-center"
               data-aos-delay="100">
                 <BlogCard
-                 image="/images/b2.jpg"
+                 image="/Images/b2.jpg"
                  title="Learn how to buid an amazing portfolio website using next.js"
                   />
             </div>
@@ -29,7 +29,7 @@ const Blog = () => {
               data-anchor-placement="top-center"
               data-aos-delay="200">
                 <BlogCard
-                 image="/images/b3.jpg"
+                 image="/Images/b3.jpg"
                  title="Leaarn how to buid an amazing portfolio website using next.js"
                   />
             </div>
