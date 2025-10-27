@@ -40,7 +40,7 @@ const Resume = () => {
                    />
               <ResumeCard
                 Icon={FaReact}
-                role="Burnpur Boy's High School"
+                role="Burnpur Boy&apos;s High School"
                 date='May 2018 - Jun 2020' />
               <ResumeCard
                 Icon={BsDatabase}

@@ -13,7 +13,7 @@ const Contact = () => {
                 Shedual a call with me to see if i can help
             </h1>
             <p className='text-gray-400 mt-6 text-base sm:text-lg'>
-                Reach out to me today and let's discuss how I can help you achive your goals.
+                Reach out to me today and let&apos;s discuss how I can help you achive your goals.
                 </p>
                   {/* info */}
                 <div className='mt-7 '>
