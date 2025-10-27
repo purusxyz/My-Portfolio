@@ -19,13 +19,14 @@ const Hero = () => {
           width={150}
           height={150}
           className='rounded-full border-3 border-red-500' 
+          data-aos="fade-up"
           />
-          <h1 className='text-xl sm:text-3xl md:text-4xl lg:text-5xl mt-6 text-center font-bold tracking-wide'>
+          <h1 data-aos="fade-up" data-aos-delay="200" className='text-xl sm:text-3xl md:text-4xl lg:text-5xl mt-6 text-center font-bold tracking-wide'>
              Designing and developing <br />
              modern web products that connect <br />
              <span className='text-cyan-200'>  ideas to innovation.</span>
           </h1>
-          <h2 className='mt-5 text-sm px-2 text-center sm:text-2xl font-medium flex items-center'>
+          <h2 data-aos="fade-up" data-aos-delay="400" className='mt-5 text-sm px-2 text-center sm:text-2xl font-medium flex items-center'>
               Hi! I&apos;m Purusottam- A passionate
                <Typewriter options={{
                 strings: [
@@ -42,7 +43,10 @@ const Hero = () => {
                }}
               />
           </h2>
-          <button className='mt-6 px-5 py-2 bg-red-500 hover:bg-green-500 transition-all duration-300
+          <button 
+          data-aos="fade-up" 
+          data-aos-delay="600" 
+          className='mt-6 px-5 py-2 bg-red-500 hover:bg-green-500 transition-all duration-300
           cursor-pointer rounded-full text-lg font-medium'>
             <span>See my work</span>
             <BsArrowRight className='w-5 h-5 ml-2 inline-block' />
